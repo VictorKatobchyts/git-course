@@ -45,7 +45,7 @@ namespace Laba5
                         break;
                     case 3:
                         flag = false;
-                        Console.WriteLine("End");
+                        Console.WriteLine("Endjojo");
                         Console.ReadLine();
                         return;
                 }
