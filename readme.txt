@@ -1,1 +1,1 @@
-Test new github project
+Test new github project (learn how to git)
